@@ -1,0 +1,60 @@
+INFO:MITOP2020_04_09_15_25_29_709221:爬取apk数量为: 10
+INFO:MITOP2020_04_09_15_25_29_709221:正在下载应用: com.baidu.homework
+INFO:MITOP2020_04_09_15_25_29_709221:正在下载应用: com.alibaba.android.rimet
+INFO:MITOP2020_04_09_15_25_29_709221:正在下载应用: com.xiaomi.shop
+INFO:root:下载完成
+INFO:root:下载完成
+INFO:root:下载完成
+INFO:root:下载完成
+INFO:MITOP2020_04_13_16_20_19_903442:爬取apk数量为: 11
+INFO:MITOP2020_04_13_16_20_19_903442:正在下载应用: com.tencent.tmgp.pubgmhd
+INFO:MITOP2020_04_13_16_20_46_097940:爬取apk数量为: 3
+INFO:MITOP2020_04_13_16_20_46_097940:正在下载应用: com.tencent.tmgp.pubgmhd
+INFO:root:下载完成
+INFO:APKPUREBYNAME2020_04_14_16_12_05_619666:正在下载应用: com.amazon.chime
+INFO:APKPUREBYNAME2020_04_15_15_40_58_314263:正在下载应用: com.amazon.chime
+INFO:APKPUREBYNAME2020_04_15_15_40_58_314263:异常app网页/网络异常
+INFO:APKPUREBYNAME2020_04_15_15_40_58_314263:正在下载应用: com.lulu.lulubox
+INFO:APKPUREBYNAME2020_04_15_15_40_58_314263:异常app网页/网络异常
+Wed, 15 Apr 2020 21:45:02 DEBUG 5389beb8****com.amazon.chime.apk  begin test
+Wed, 15 Apr 2020 21:52:46 DEBUG 5389beb8****com.amazon.chime.apk  begin test
+Wed, 15 Apr 2020 21:52:51 DEBUG 5389beb8****com.amazon.chime.apk  end test
+Wed, 15 Apr 2020 21:52:51 INFO **5389beb8**com.amazon.chime.apk**fail**fail**fail**0**Not begin monkey test, please check apk if install success.**
+Wed, 15 Apr 2020 21:52:51 DEBUG 5389beb8****com.lulu.lulubox.apk  begin test
+Wed, 15 Apr 2020 21:52:56 DEBUG 5389beb8****com.lulu.lulubox.apk  end test
+Wed, 15 Apr 2020 21:52:56 INFO **5389beb8**com.lulu.lulubox.apk**fail**fail**fail**0**Not begin monkey test, please check apk if install success.**
+Wed, 15 Apr 2020 21:53:45 DEBUG 5389beb8****com.amazon.chime.apk  begin test
+Wed, 15 Apr 2020 21:53:50 DEBUG 5389beb8****com.amazon.chime.apk  end test
+Wed, 15 Apr 2020 21:53:50 INFO **5389beb8**com.amazon.chime.apk**fail**fail**fail**0**Not begin monkey test, please check apk if install success.**
+Wed, 15 Apr 2020 21:53:50 DEBUG 5389beb8****com.lulu.lulubox.apk  begin test
+Wed, 15 Apr 2020 21:53:55 DEBUG 5389beb8****com.lulu.lulubox.apk  end test
+Wed, 15 Apr 2020 21:53:55 INFO **5389beb8**com.lulu.lulubox.apk**fail**fail**fail**0**Not begin monkey test, please check apk if install success.**
+INFO:APKPUREBYNAME2020_04_16_00_38_33_627668:正在下载应用: amazon-chime
+INFO:APKPUREBYNAME2020_04_16_00_38_33_627668:异常app网页/网络异常amazon-chime
+INFO:APKPUREBYNAME2020_04_16_00_38_33_627668:正在下载应用: google-play-store
+INFO:APKPUREBYNAME2020_04_16_00_38_33_627668:下载完成
+Thu, 16 Apr 2020 00:47:53 DEBUG 5389beb8****amazon-chime.apk  begin test
+Thu, 16 Apr 2020 00:47:59 DEBUG 5389beb8****amazon-chime.apk  end test
+Thu, 16 Apr 2020 00:47:59 INFO **5389beb8**amazon-chime.apk**fail**fail**fail**0**Not begin monkey test, please check apk if install success.**
+Thu, 16 Apr 2020 00:47:59 DEBUG 5389beb8****google-play-store.apk  begin test
+Thu, 16 Apr 2020 00:48:20 DEBUG 5389beb8****google-play-store.apk  end test
+Thu, 16 Apr 2020 00:48:20 INFO **5389beb8**google-play-store.apk**fail**fail**fail**0**Not begin monkey test, please check apk if install success.**
+INFO:MIBYNAME2020_04_16_11_16_24_114221:下载完成
+INFO:MIBYNAME2020_04_16_11_16_24_114221:下载完成
+INFO:MIBYNAME2020_04_16_11_16_24_114221:下载完成
+INFO:MIBYNAME2020_04_16_11_16_24_114221:下载完成
+INFO:MIBYNAME2020_04_16_11_16_24_114221:下载完成
+INFO:MIBYNAME2020_04_16_11_16_24_114221:下载完成
+INFO:MIBYNAME2020_04_16_11_16_24_114221:下载完成
+INFO:MIBYNAME2020_04_16_11_16_24_114221:下载完成
+INFO:MIBYNAME2020_04_16_13_40_25_714359:正在下载应用: com.tencent.mobileqq
+INFO:MIBYNAME2020_04_16_13_40_25_714359:正在下载应用: com.tencent.mm
+INFO:MIBYNAME2020_04_16_13_40_25_714359:正在下载应用: com.tencent.tmgp.pubgmhd
+INFO:MIBYNAME2020_04_16_14_16_30_205843:下载完成
+INFO:MIBYNAME2020_04_16_14_16_30_205843:下载完成
+INFO:MIBYNAME2020_04_16_14_16_30_205843:下载完成
+INFO:MIBYNAME2020_04_16_14_16_30_205843:下载完成
+INFO:MIBYNAME2020_04_16_14_16_30_205843:下载完成
+INFO:MIBYNAME2020_04_16_14_16_30_205843:下载完成
+INFO:MIBYNAME2020_04_17_16_22_46_591082:下载完成
+INFO:MIBYNAME2020_04_17_16_22_46_591082:下载完成

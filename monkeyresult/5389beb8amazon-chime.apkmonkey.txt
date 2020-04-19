@@ -1,0 +1,86 @@
+  bash arg: -p
+  bash arg: mazon-chime
+  bash arg: --ignore-crashes
+  bash arg: --ignore-timeouts
+  bash arg: --monitor-native-crashes
+  bash arg: --throttle
+  bash arg: 1000
+  bash arg: --ignore-native-crashes
+  bash arg: -s
+  bash arg: 500
+  bash arg: -v
+  bash arg: -v
+  bash arg: -v
+  bash arg: 50
+:Monkey: seed=500 count=50
+:AllowPackage: mazon-chime
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Selecting main activities from category android.intent.category.LAUNCHER
+//   - NOT USING main activity com.android.browser.BrowserActivity (from package com.android.browser)
+//   - NOT USING main activity com.android.calendar.AllInOneActivity (from package com.android.calendar)
+//   - NOT USING main activity com.android.contacts.DialtactsActivityAlias (from package com.android.contacts)
+//   - NOT USING main activity com.android.contacts.PeopleActivityAlias (from package com.android.contacts)
+//   - NOT USING main activity com.android.mms.ui.ConversationList (from package com.android.mms)
+//   - NOT USING main activity com.oppo.settings.SettingsActivity (from package com.android.settings)
+//   - NOT USING main activity com.coloros.findphone.client.LoginActivity (from package com.coloros.findphone.client)
+//   - NOT USING main activity com.oppo.gallery3d.app.Gallery (from package com.coloros.gallery3d)
+//   - NOT USING main activity com.coloros.gamespace.activity.MainActivity (from package com.coloros.gamespace)
+//   - NOT USING main activity com.coloros.phonemanager.FakeActivity (from package com.coloros.phonemanager)
+//   - NOT USING main activity com.coloros.speechassist.homepage.SpeechAssistMainActivity (from package com.coloros.speechassist)
+//   - NOT USING main activity com.nearme.wallet.SplashActivity (from package com.coloros.wallet)
+//   - NOT USING main activity com.oppo.camera.Camera (from package com.oppo.camera)
+//   - NOT USING main activity com.oppo.music.MainListActivity (from package com.oppo.music)
+//   - NOT USING main activity com.oppo.usercenter.vip.UCVIPMainActivity (from package com.oppo.usercenter)
+//   - NOT USING main activity com.baidu.baidumaps.WelcomeScreen (from package com.baidu.BaiduMap)
+//   - NOT USING main activity oppo.multimedia.soundrecorder.filebrowser.BrowseFile (from package com.coloros.soundrecorder)
+//   - NOT USING main activity com.coloros.videoeditor.SplashActivity (from package com.coloros.videoeditor)
+//   - NOT USING main activity com.nearme.play.module.others.launcher.LauncherActivity (from package com.nearme.play)
+//   - NOT USING main activity com.oppo.community.InitActivity (from package com.oppo.community)
+//   - NOT USING main activity com.chaozh.iReader.ui.activity.WelcomeActivity (from package com.oppo.reader)
+//   - NOT USING main activity com.oppo.store.InitActivity (from package com.oppo.store)
+//   - NOT USING main activity com.sankuai.meituan.activity.PreloadedWelcome (from package com.sankuai.meituan)
+//   - NOT USING main activity com.coloros.alarmclock.AlarmClock (from package com.coloros.alarmclock)
+//   - NOT USING main activity com.coloros.phoneclone.PhoneCloneMainActivity (from package com.coloros.backuprestore)
+//   - NOT USING main activity com.coloros.filemanager.Main (from package com.coloros.filemanager)
+//   - NOT USING main activity com.nearme.themespace.activities.ThemeActivity (from package com.nearme.themespace)
+//   - NOT USING main activity com.oppo.market.activity.MainActivity (from package com.oppo.market)
+//   - NOT USING main activity com.UCMobile.main.UCMobile (from package com.UCMobile)
+//   - NOT USING main activity com.android.calculator2.Calculator (from package com.android.calculator2)
+//   - NOT USING main activity com.autonavi.map.activity.SplashActivity (from package com.autonavi.minimap)
+//   - NOT USING main activity com.baidu.searchbox.SplashActivity (from package com.baidu.searchbox)
+//   - NOT USING main activity com.coloros.aruler.MainActivity (from package com.coloros.aruler)
+//   - NOT USING main activity com.coloros.compass.flat.FlatCompass (from package com.coloros.compass)
+//   - NOT USING main activity com.coloros.familyguard.FakeActivity (from package com.coloros.familyguard)
+//   - NOT USING main activity com.coloros.onekeylockscreen.OppoLockScreen (from package com.coloros.onekeylockscreen)
+//   - NOT USING main activity com.coloros.operationtips.activities.WelcomeActivity (from package com.coloros.operationtips)
+//   - NOT USING main activity com.coloros.weather.OppoMainActivity (from package com.coloros.weather)
+//   - NOT USING main activity com.coloros.yoli.icon_org (from package com.coloros.yoli)
+//   - NOT USING main activity com.eg.android.AlipayGphone.AlipayLogin (from package com.eg.android.AlipayGphone)
+//   - NOT USING main activity com.findtheway.activity.MainActivity (from package com.findtheway)
+//   - NOT USING main activity com.happyelements.android.platform.oppo.ads.SplashActivity (from package com.happyelements.AndroidAnimal)
+//   - NOT USING main activity com.yidian.news.ui.guide.UserGuideActivity (from package com.hipu.yidian)
+//   - NOT USING main activity com.jingdong.app.mall.main.MainActivity (from package com.jingdong.app.mall)
+//   - NOT USING main activity com.nearme.gamecenter.ui.activity.SplashActivity (from package com.nearme.gamecenter)
+//   - NOT USING main activity com.nearme.note.view.AllNoteActivity (from package com.nearme.note)
+//   - NOT USING main activity com.oppo.ohome.LaunchActivity (from package com.oppo.ohome)
+//   - NOT USING main activity com.redteamobile.roaming.MainActivity (from package com.redteamobile.roaming)
+//   - NOT USING main activity com.shuqi.activity.SplashActivity (from package com.shuqi.controller)
+//   - NOT USING main activity com.sina.weibo.SplashActivity (from package com.sina.weibo)
+//   - NOT USING main activity com.ss.android.article.news.activity.MainActivity (from package com.ss.android.article.news)
+//   - NOT USING main activity com.ss.android.ugc.aweme.splash.SplashActivity (from package com.ss.android.ugc.aweme)
+//   - NOT USING main activity com.taobao.tao.welcome.Welcome (from package com.taobao.taobao)
+//   - NOT USING main activity com.tencent.mm.ui.LauncherUI (from package com.tencent.mm)
+//   - NOT USING main activity com.tencent.news.activity.SplashActivity (from package com.tencent.news)
+//   - NOT USING main activity com.tencent.qqlive.ona.activity.WelcomeActivity (from package com.tencent.qqlive)
+//   - NOT USING main activity com.wuba.activity.launch.LaunchActivity (from package com.wuba)
+//   - NOT USING main activity com.xingin.xhs.preload.EmptySplashActivity (from package com.xingin.xhs)
+//   - NOT USING main activity com.xunmeng.pinduoduo.ui.activity.MainFrameActivity (from package com.xunmeng.pinduoduo)
+//   - NOT USING main activity com.youku.phone.ActivityWelcomeCopy (from package com.youku.phone)
+//   - NOT USING main activity ctrip.android.view.view.CtripDeclarationActivity (from package ctrip.android.view)
+// Selecting main activities from category android.intent.category.MONKEY
+//   - NOT USING main activity com.android.settings.Settings$RunningServicesActivity (from package com.android.settings)
+//   - NOT USING main activity com.android.settings.Settings$StorageUseActivity (from package com.android.settings)
+//   - NOT USING main activity com.oppo.launcher.Launcher (from package com.oppo.launcher)
+//   - NOT USING main activity com.coloros.providers.downloads.ui.DownloadListActivity (from package com.coloros.providers.downloads.ui)
+** No activities found to run, monkey aborted.
